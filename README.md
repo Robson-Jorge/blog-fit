@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript
 
 Teste erro de git push
 
